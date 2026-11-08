@@ -75,7 +75,8 @@ npm run dev:frontend
 
 ## Screenshots
 
-![Screenshot 1](docs/screenshots/1.jpg)
-
-![Screenshot 2](docs/screenshots/2.jpg)
+<p>
+  <img src="docs/screenshots/1.jpg" alt="Screenshot 1" width="280" />
+  <img src="docs/screenshots/2.jpg" alt="Screenshot 2" width="280" />
+</p>
 
